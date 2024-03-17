@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey ¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # ¡¡Hola a todos!!
 
 Me llamo Sergio, y soy un estudiante del Grado Superior en Desarrollo de Aplicaciones Web (DAW) en la UCAM de Murcia. Aquí estamos, intentando aprender los rudimentos de la programación...
