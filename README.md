@@ -2,7 +2,6 @@
 
 Me llamo Sergio, y soy un estudiante del Grado Superior en Desarrollo de Aplicaciones Web (DAW) en la UCAM de Murcia. Aquí estamos, intentando aprender los rudimentos de la programación...
 
-🔭 I’m currently working on ...
 - 🌱 Me encuentro acutalmente estudiando el lenguaje de programación de Java
 - 👯 Testeando GitHub para poder usarlo en el futuro
 
